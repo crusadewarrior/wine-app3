@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="28895317-08e8-4d94-a76d-d9f4e2c85fad" name="Wine App - HG" url="http://ftp.nowliveanawesomelife.com">
+        <fileTransfer host="ftp.nowliveanawesomelife.com" port="21" rootFolder="/public_html/marvinbautista.com/wineapp" password="dff6dfc5dfc1df9adff8dfdddfc8dff2df98dfc3dfd3dfd8" username="crusader">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
