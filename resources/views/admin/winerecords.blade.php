@@ -2,7 +2,7 @@
 @section('title', 'Batches')
 @section('content')
 @section('pageheader')
-    Wine records
+    Wine Records
     <i class="fa fa-list fa-fw"></i>
 @endsection
 <div class="col-lg-12">
