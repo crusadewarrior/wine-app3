@@ -1,5 +1,5 @@
 @extends('admin.index')
-@section('title', 'Batches')
+@section('title', 'Wine Records')
 @section('content')
 @section('pageheader')
     Wine Records
